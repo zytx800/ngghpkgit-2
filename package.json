@@ -14,6 +14,6 @@
     "@dagonmetric/ng-config-firebase-remote-config": "^4.2.3",
     "@dagonmetric/ng-translit": "^14.2.4",
     "rxjs": "^6.6.2",
-    "zone.js": "^0.11.0"
+    "zone.js": "^0.11.1"
   }
 }
